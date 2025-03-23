@@ -56,7 +56,10 @@ Este projeto foi criado com o objetivo de explorar conceitos avançados do **Ang
    ```
    http://localhost:4200
    ```
-
+## 🔧 Ou Acesse você mesmo 
+  ```
+   https://quizinvencivel.netlify.app
+  ```
 ## 🛠 Melhorias Futuras
 - Melhorar o sistema de pontuação e empate.
 - Adicionar efeitos visuais dinâmicos e animações.
