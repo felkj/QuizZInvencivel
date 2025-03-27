@@ -5,60 +5,60 @@
       "id": 1,
       "question": "Se você pudesse escolher qualquer poder extra, qual seria?",
       "options": [
-        { "id": 1, "name": "Super regeneração para nunca desistir de uma luta.", "alias": "Mark" },
-        { "id": 2, "name": "Ser invulnerável para nunca temer ninguém.", "alias": "Omni-Man" },
+        { "id": 6, "name": "Força infinita para enfrentar qualquer adversário.", "alias": "Battle Beast" },
         { "id": 3, "name": "Manipular a realidade para criar soluções perfeitas.", "alias": "Atom Eve" },
+        { "id": 1, "name": "Super regeneração para nunca desistir de uma luta.", "alias": "Mark" },
         { "id": 4, "name": "Ter um intelecto ainda mais avançado para prever tudo.", "alias": "Robot" },
         { "id": 5, "name": "Explosões ainda mais poderosas!", "alias": "Rex Splode" },
-        { "id": 6, "name": "Força infinita para enfrentar qualquer adversário.", "alias": "Battle Beast" }
+        { "id": 2, "name": "Ser invulnerável para nunca temer ninguém.", "alias": "Omni-Man" }
       ]
     },
     {
       "id": 2,
       "question": "Você acha que heróis devem seguir regras?",
       "options": [
-        { "id": 1, "name": "Sempre! Alguém precisa proteger os inocentes.", "alias": "Mark" },
-        { "id": 2, "name": "Regras são para os fracos. O forte deve governar.", "alias": "Omni-Man" },
-        { "id": 3, "name": "Regras são importantes, mas sempre há exceções.", "alias": "Atom Eve" },
-        { "id": 4, "name": "Regras são apenas cálculos de probabilidade de sucesso.", "alias": "Robot" },
+        { "id": 6, "name": "A única regra é ser forte ou morrer.", "alias": "Battle Beast" },
         { "id": 5, "name": "Que regras? Eu faço minhas próprias!", "alias": "Rex Splode" },
-        { "id": 6, "name": "A única regra é ser forte ou morrer.", "alias": "Battle Beast" }
+        { "id": 3, "name": "Regras são importantes, mas sempre há exceções.", "alias": "Atom Eve" },
+        { "id": 1, "name": "Sempre! Alguém precisa proteger os inocentes.", "alias": "Mark" },
+        { "id": 4, "name": "Regras são apenas cálculos de probabilidade de sucesso.", "alias": "Robot" },
+        { "id": 2, "name": "Regras são para os fracos. O forte deve governar.", "alias": "Omni-Man" }
       ]
     },
     {
       "id": 3,
       "question": "Qual seria sua maior fraqueza como herói?",
       "options": [
-        { "id": 1, "name": "Acreditar demais nas pessoas.", "alias": "Mark" },
-        { "id": 2, "name": "Subestimar os fracos.", "alias": "Omni-Man" },
-        { "id": 3, "name": "Me importar demais com os outros.", "alias": "Atom Eve" },
-        { "id": 4, "name": "Minha falta de emoções humanas.", "alias": "Robot" },
         { "id": 5, "name": "Minha boca grande e impulsividade.", "alias": "Rex Splode" },
-        { "id": 6, "name": "Nada. A fraqueza não existe para mim.", "alias": "Battle Beast" }
+        { "id": 3, "name": "Me importar demais com os outros.", "alias": "Atom Eve" },
+        { "id": 1, "name": "Acreditar demais nas pessoas.", "alias": "Mark" },
+        { "id": 6, "name": "Nada. A fraqueza não existe para mim.", "alias": "Battle Beast" },
+        { "id": 4, "name": "Minha falta de emoções humanas.", "alias": "Robot" },
+        { "id": 2, "name": "Subestimar os fracos.", "alias": "Omni-Man" }
       ]
     },
     {
       "id": 4,
       "question": "Qual é sua maior força em uma batalha?",
       "options": [
-        { "id": 1, "name": "Minha força de vontade me mantém de pé.", "alias": "Mark" },
         { "id": 2, "name": "Minha superioridade genética me torna imparável.", "alias": "Omni-Man" },
         { "id": 3, "name": "Meu intelecto e planejamento garantem a vitória.", "alias": "Robot" },
-        { "id": 4, "name": "Minha criatividade me permite sempre ter uma saída.", "alias": "Atom Eve" },
+        { "id": 1, "name": "Minha força de vontade me mantém de pé.", "alias": "Mark" },
+        { "id": 6, "name": "Apenas desejo um adversário digno.", "alias": "Battle Beast" },
         { "id": 5, "name": "Eu explodo as coisas antes que me atinjam.", "alias": "Rex Splode" },
-        { "id": 6, "name": "Apenas desejo um adversário digno.", "alias": "Battle Beast" }
+        { "id": 4, "name": "Minha criatividade me permite sempre ter uma saída.", "alias": "Atom Eve" }
       ]
     },
     {
       "id": 5,
       "question": "Se tivesse que escolher entre sua família e a humanidade, o que faria?",
       "options": [
-        { "id": 1, "name": "Lutaria para salvar os dois, custe o que custar.", "alias": "Mark" },
-        { "id": 2, "name": "Minha espécie vem antes de tudo.", "alias": "Omni-Man" },
-        { "id": 3, "name": "Escolheria o que fosse certo, mesmo que fosse difícil.", "alias": "Atom Eve" },
-        { "id": 4, "name": "Família é irrelevante. O futuro da humanidade está nos cálculos.", "alias": "Robot" },
         { "id": 5, "name": "Dane-se, escolho o lado que me pagar melhor!", "alias": "Rex Splode" },
-        { "id": 6, "name": "Família? Eu só procuro um oponente digno.", "alias": "Battle Beast" }
+        { "id": 3, "name": "Escolheria o que fosse certo, mesmo que fosse difícil.", "alias": "Atom Eve" },
+        { "id": 2, "name": "Minha espécie vem antes de tudo.", "alias": "Omni-Man" },
+        { "id": 4, "name": "Família é irrelevante. O futuro da humanidade está nos cálculos.", "alias": "Robot" },
+        { "id": 6, "name": "Família? Eu só procuro um oponente digno.", "alias": "Battle Beast" },
+        { "id": 1, "name": "Lutaria para salvar os dois, custe o que custar.", "alias": "Mark" }
       ]
     }
   ],
