@@ -154,39 +154,41 @@
     { "id": 4, "name": "Eu escolheria uma vida de equilíbrio, com desafios controlados.", "alias": "Atom Eve" },
     { "id": 5, "name": "Desafios podem ser cansativos, mas são necessários para me manter motivado.", "alias": "Rex Splode" },
     { "id": 6, "name": "Eu enfrentaria os maiores desafios possíveis, sem hesitar.", "alias": "Omni-Man" }
-  ]
-}
-]
-  "results": {
-    "Mark": {
-      "name": "Mark",
-      "description": "Você tem um coração de herói e nunca desiste, mesmo quando tudo está contra você.",
-      "image": "assets/imgs/mark.png"
-    },
-    "Omni-Man": {
-      "name": "Omni-Man",
-      "description": "Você é poderoso e estratégico, mas pode acabar se distanciando dos outros por causa de sua visão implacável do mundo.",
-      "image": "assets/imgs/omni-man.png"
-    },
-    "Atom Eve": {
-      "name": "Atom Eve",
-      "description": "Você acredita que a verdadeira mudança vem além das batalhas e quer fazer a diferença de verdade.",
-      "image": "assets/imgs/atom-eve.png"
-    },
-    "Robot": {
-      "name": "Robot",
-      "description": "Você é extremamente inteligente e prático, sempre planejando cada passo com precisão cirúrgica.",
-      "image": "assets/imgs/robot.png"
-    },
-    "Rex Splode": {
-      "name": "Rex Splode",
-      "description": "Você é impulsivo e confiante, mas no fundo tem um bom coração e luta para provar seu valor.",
-      "image": "assets/imgs/rex-splode.png"
-    },
-    "Battle Beast": {
-      "name": "Battle Beast",
-      "description": "Você vive pela batalha, não tem medo de desafios e só respeita os verdadeiramente fortes.",
-      "image": "assets/imgs/battle-beast.png"
+    ]
     }
-  }
+  ]
+},
+{
+  "results": [
+    {
+      "alias": "Mark",
+      "description": "Você seria o Mark, o Invencível! Você luta pelo bem, sempre tentando fazer a coisa certa, mesmo quando é difícil. Sua força está na sua capacidade de se sacrificar pelos outros, mantendo sua humanidade. Você pode ser ingênuo às vezes, mas seu coração está no lugar certo e você nunca desiste.",
+      "image": "url_da_imagem_do_mark.jpg"
+    },
+    {
+      "alias": "Omni-Man",
+      "description": "Você seria o Omni-Man! Sua força e determinação são incomparáveis, mas você tem uma visão bem diferente da maioria. Para você, o fim justifica os meios e a sobrevivência do mais forte é a única coisa que importa. Seus métodos podem ser duros, mas seus objetivos são claros: a supremacia.",
+      "image": "url_da_imagem_do_omni_man.jpg"
+    },
+    {
+      "alias": "Robot",
+      "description": "Você seria o Robot! Inteligente, calculista e sempre em busca de formas de melhorar a si mesmo e aos outros. Você acredita que a lógica e a razão devem prevalecer sobre as emoções, e faz tudo o que pode para garantir que a humanidade tenha um futuro seguro e controlado, mesmo que isso signifique tomar decisões difíceis.",
+      "image": "url_da_imagem_do_robot.jpg"
+    },
+    {
+      "alias": "Atom Eve",
+      "description": "Você seria a Atom Eve! Seu poder vem da habilidade de manipular a realidade, criando soluções para os problemas ao seu redor. Você tem um grande senso de empatia e se preocupa profundamente com os outros, muitas vezes se sacrificando para o bem maior. Sua força vem de sua capacidade de mudar o mundo ao seu redor.",
+      "image": "url_da_imagem_da_atom_eve.jpg"
+    },
+    {
+      "alias": "Rex Splode",
+      "description": "Você seria o Rex Splode! Impulsivo e irreverente, você não tem medo de dizer o que pensa e de se colocar em situações difíceis. Embora seus poderes possam ser explosivos, sua verdadeira força está em sua atitude desafiadora e em sua busca por emoção. Você vive a vida de maneira intensa e sem arrependimentos.",
+      "image": "url_da_imagem_do_rex_splode.jpg"
+    },
+    {
+      "alias": "Battle Beast",
+      "description": "Você seria o Battle Beast! Imparável e sedento por batalhas desafiadoras, você não tem medo de se enfrentar com qualquer adversário. Sua força e ferocidade são lendárias, e você não recua diante de nenhum obstáculo. Sua vida é uma busca constante por oponentes dignos para testar suas habilidades.",
+      "image": "url_da_imagem_do_battle_beast.jpg"
+    }
+  ]
 }
