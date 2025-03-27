@@ -61,40 +61,37 @@
         { "id": 6, "name": "Família? Eu só procuro um oponente digno.", "alias": "Battle Beast" }
       ]
     }
-  ]
-}
-
   ],
   "results": {
-  "Mark": {
-    "name": "Mark",
-    "description": "Você tem um coração de herói e nunca desiste, mesmo quando tudo está contra você.",
-    "image": "assets/imgs/mark.png"
-  },
-  "Omni-Man": {
-    "name": "Omni-Man",
-    "description": "Você é poderoso e estratégico, mas pode acabar se distanciando dos outros por causa de sua visão implacável do mundo.",
-    "image": "assets/imgs/omni-man.png"
-  },
-  "Atom Eve": {
-    "name": "Atom Eve",
-    "description": "Você acredita que a verdadeira mudança vem além das batalhas e quer fazer a diferença de verdade.",
-    "image": "assets/imgs/atom-eve.png"
-  },
-  "Robot": {
-    "name": "Robot",
-    "description": "Você é extremamente inteligente e prático, sempre planejando cada passo com precisão cirúrgica.",
-    "image": "assets/imgs/robot.png"
-  },
-  "Rex Splode": {
-    "name": "Rex Splode",
-    "description": "Você é impulsivo e confiante, mas no fundo tem um bom coração e luta para provar seu valor.",
-    "image": "assets/imgs/rex-splode.png"
-  },
-  "Battle Beast": {
-    "name": "Battle Beast",
-    "description": "Você vive pela batalha, não tem medo de desafios e só respeita os verdadeiramente fortes.",
-    "image": "assets/imgs/battle-beast.png"
+    "Mark": {
+      "name": "Mark",
+      "description": "Você tem um coração de herói e nunca desiste, mesmo quando tudo está contra você.",
+      "image": "assets/imgs/mark.png"
+    },
+    "Omni-Man": {
+      "name": "Omni-Man",
+      "description": "Você é poderoso e estratégico, mas pode acabar se distanciando dos outros por causa de sua visão implacável do mundo.",
+      "image": "assets/imgs/omni-man.png"
+    },
+    "Atom Eve": {
+      "name": "Atom Eve",
+      "description": "Você acredita que a verdadeira mudança vem além das batalhas e quer fazer a diferença de verdade.",
+      "image": "assets/imgs/atom-eve.png"
+    },
+    "Robot": {
+      "name": "Robot",
+      "description": "Você é extremamente inteligente e prático, sempre planejando cada passo com precisão cirúrgica.",
+      "image": "assets/imgs/robot.png"
+    },
+    "Rex Splode": {
+      "name": "Rex Splode",
+      "description": "Você é impulsivo e confiante, mas no fundo tem um bom coração e luta para provar seu valor.",
+      "image": "assets/imgs/rex-splode.png"
+    },
+    "Battle Beast": {
+      "name": "Battle Beast",
+      "description": "Você vive pela batalha, não tem medo de desafios e só respeita os verdadeiramente fortes.",
+      "image": "assets/imgs/battle-beast.png"
+    }
   }
-}
 }
