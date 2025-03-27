@@ -3,14 +3,14 @@
   "questions": [
     {
       "id": 1,
-      "question": "Qual é sua maior força em uma batalha?",
+      "question": "Se você pudesse escolher qualquer poder extra, qual seria?",
       "options": [
-        { "id": 1, "name": "Minha força de vontade me mantém de pé.", "alias": "Mark" },
-        { "id": 2, "name": "Minha superioridade genética me torna imparável.", "alias": "Omni-Man" },
-        { "id": 3, "name": "Meu intelecto e planejamento garantem a vitória.", "alias": "Robot" },
-        { "id": 4, "name": "Minha criatividade me permite sempre ter uma saída.", "alias": "Atom Eve" },
-        { "id": 5, "name": "Eu explodo as coisas antes que me atinjam.", "alias": "Rex Splode" },
-        { "id": 6, "name": "Apenas desejo um adversário digno.", "alias": "Battle Beast" }
+        { "id": 1, "name": "Super regeneração para nunca desistir de uma luta.", "alias": "Mark" },
+        { "id": 2, "name": "Ser invulnerável para nunca temer ninguém.", "alias": "Omni-Man" },
+        { "id": 3, "name": "Manipular a realidade para criar soluções perfeitas.", "alias": "Atom Eve" },
+        { "id": 4, "name": "Ter um intelecto ainda mais avançado para prever tudo.", "alias": "Robot" },
+        { "id": 5, "name": "Explosões ainda mais poderosas!", "alias": "Rex Splode" },
+        { "id": 6, "name": "Força infinita para enfrentar qualquer adversário.", "alias": "Battle Beast" }
       ]
     },
     {
@@ -27,30 +27,6 @@
     },
     {
       "id": 3,
-      "question": "Se tivesse que escolher entre sua família e a humanidade, o que faria?",
-      "options": [
-        { "id": 1, "name": "Lutaria para salvar os dois, custe o que custar.", "alias": "Mark" },
-        { "id": 2, "name": "Minha espécie vem antes de tudo.", "alias": "Omni-Man" },
-        { "id": 3, "name": "Escolheria o que fosse certo, mesmo que fosse difícil.", "alias": "Atom Eve" },
-        { "id": 4, "name": "Família é irrelevante. O futuro da humanidade está nos cálculos.", "alias": "Robot" },
-        { "id": 5, "name": "Dane-se, escolho o lado que me pagar melhor!", "alias": "Rex Splode" },
-        { "id": 6, "name": "Família? Eu só procuro um oponente digno.", "alias": "Battle Beast" }
-      ]
-    },
-    {
-      "id": 4,
-      "question": "Como você age diante da derrota?",
-      "options": [
-        { "id": 1, "name": "Me levanto e tento de novo, mesmo que doa.", "alias": "Mark" },
-        { "id": 2, "name": "Eu não perco. Apenas me retiro para planejar melhor.", "alias": "Omni-Man" },
-        { "id": 3, "name": "Recuo e me reestruturo para um contra-ataque.", "alias": "Robot" },
-        { "id": 4, "name": "Uso a derrota como aprendizado para crescer ainda mais.", "alias": "Atom Eve" },
-        { "id": 5, "name": "Xingo muito, mas volto mais forte!", "alias": "Rex Splode" },
-        { "id": 6, "name": "Se eu perder, significa que finalmente encontrei um desafio digno.", "alias": "Battle Beast" }
-      ]
-    },
-    {
-      "id": 5,
       "question": "Qual seria sua maior fraqueza como herói?",
       "options": [
         { "id": 1, "name": "Acreditar demais nas pessoas.", "alias": "Mark" },
@@ -62,29 +38,32 @@
       ]
     },
     {
-      "id": 6,
-      "question": "O que é mais importante para você em um combate?",
+      "id": 4,
+      "question": "Qual é sua maior força em uma batalha?",
       "options": [
-        { "id": 1, "name": "Proteger os inocentes.", "alias": "Mark" },
-        { "id": 2, "name": "Vencer a qualquer custo.", "alias": "Omni-Man" },
-        { "id": 3, "name": "Evitar que a luta aconteça.", "alias": "Atom Eve" },
-        { "id": 4, "name": "Planejar um ataque eficiente.", "alias": "Robot" },
-        { "id": 5, "name": "Tornar a batalha um show.", "alias": "Rex Splode" },
-        { "id": 6, "name": "Testar minha força contra os mais poderosos.", "alias": "Battle Beast" }
+        { "id": 1, "name": "Minha força de vontade me mantém de pé.", "alias": "Mark" },
+        { "id": 2, "name": "Minha superioridade genética me torna imparável.", "alias": "Omni-Man" },
+        { "id": 3, "name": "Meu intelecto e planejamento garantem a vitória.", "alias": "Robot" },
+        { "id": 4, "name": "Minha criatividade me permite sempre ter uma saída.", "alias": "Atom Eve" },
+        { "id": 5, "name": "Eu explodo as coisas antes que me atinjam.", "alias": "Rex Splode" },
+        { "id": 6, "name": "Apenas desejo um adversário digno.", "alias": "Battle Beast" }
       ]
     },
     {
-      "id": 7,
-      "question": "Se você pudesse escolher qualquer poder extra, qual seria?",
+      "id": 5,
+      "question": "Se tivesse que escolher entre sua família e a humanidade, o que faria?",
       "options": [
-        { "id": 1, "name": "Super regeneração para nunca desistir de uma luta.", "alias": "Mark" },
-        { "id": 2, "name": "Ser invulnerável para nunca temer ninguém.", "alias": "Omni-Man" },
-        { "id": 3, "name": "Manipular a realidade para criar soluções perfeitas.", "alias": "Atom Eve" },
-        { "id": 4, "name": "Ter um intelecto ainda mais avançado para prever tudo.", "alias": "Robot" },
-        { "id": 5, "name": "Explosões ainda mais poderosas!", "alias": "Rex Splode" },
-        { "id": 6, "name": "Força infinita para enfrentar qualquer adversário.", "alias": "Battle Beast" }
+        { "id": 1, "name": "Lutaria para salvar os dois, custe o que custar.", "alias": "Mark" },
+        { "id": 2, "name": "Minha espécie vem antes de tudo.", "alias": "Omni-Man" },
+        { "id": 3, "name": "Escolheria o que fosse certo, mesmo que fosse difícil.", "alias": "Atom Eve" },
+        { "id": 4, "name": "Família é irrelevante. O futuro da humanidade está nos cálculos.", "alias": "Robot" },
+        { "id": 5, "name": "Dane-se, escolho o lado que me pagar melhor!", "alias": "Rex Splode" },
+        { "id": 6, "name": "Família? Eu só procuro um oponente digno.", "alias": "Battle Beast" }
       ]
     }
+  ]
+}
+
   ],
   "results": {
   "Mark": {
