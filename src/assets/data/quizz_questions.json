@@ -1,9 +1,6 @@
 {
   "title": "Qual personagem de Invencível você seria?",
   "questions": [
-   {
-  "title": "Qual personagem de Invencível você seria?",
-  "questions": [
     {
       "id": 1,
       "question": "Se você pudesse escolher qualquer poder extra, qual seria?",
@@ -99,10 +96,67 @@
         { "id": 5, "name": "Desafios podem ser cansativos, mas são necessários para me manter motivado.", "alias": "Rex Splode" },
         { "id": 6, "name": "Eu enfrentaria os maiores desafios possíveis, sem hesitar.", "alias": "Omni-Man" }
       ]
+    },
+    {
+      "id": 9,
+      "question": "Como você reagiria se um aliado fosse injustamente acusado e preso?",
+      "options": [
+        { "id": 1, "name": "Eu procuraria a verdade, não importa o custo.", "alias": "Atom Eve" },
+        { "id": 2, "name": "Eu destruiria todos que fizessem a acusação.", "alias": "Rex Splode" },
+        { "id": 3, "name": "Faria tudo para libertá-lo, mesmo que isso significasse sacrificar algo importante.", "alias": "Mark" },
+        { "id": 4, "name": "Eu começaria a questionar o que é certo ou errado.", "alias": "Robot" },
+        { "id": 5, "name": "Eu não me importaria, não é meu problema.", "alias": "Omni-Man" },
+        { "id": 6, "name": "Tentaria negociar e resolver com estratégia.", "alias": "Battle Beast" }
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Se você tivesse que escolher entre um superpoder temporário ou uma habilidade permanente, qual escolheria?",
+      "options": [
+        { "id": 1, "name": "Superpoder temporário. Eu usaria a meu favor enquanto durasse.", "alias": "Rex Splode" },
+        { "id": 2, "name": "Habilidade permanente, seria mais estável.", "alias": "Atom Eve" },
+        { "id": 3, "name": "Superpoder temporário. Nada como uma vantagem em momentos chave.", "alias": "Mark" },
+        { "id": 4, "name": "Habilidade permanente, nada de surpresas.", "alias": "Omni-Man" },
+        { "id": 5, "name": "Superpoder temporário, e eu sempre me adaptaria à situação.", "alias": "Robot" },
+        { "id": 6, "name": "Eu não escolheria nenhum, prefiro confiar em minhas habilidades naturais.", "alias": "Battle Beast" }
+      ]
+    },
+    {
+      "id": 11,
+      "question": "Você se vê como um herói ou um anti-herói?",
+      "options": [
+        { "id": 1, "name": "Eu sou um herói, porque sempre faço o que é certo.", "alias": "Mark" },
+        { "id": 2, "name": "Sou um anti-herói, minhas ações falam mais alto que minhas intenções.", "alias": "Omni-Man" },
+        { "id": 3, "name": "Eu sou o que o mundo precisa que eu seja.", "alias": "Robot" },
+        { "id": 4, "name": "Sou um herói, mas às vezes vou até onde a moral não chega.", "alias": "Atom Eve" },
+        { "id": 5, "name": "Sou um anti-herói, fazendo o que for necessário.", "alias": "Battle Beast" },
+        { "id": 6, "name": "Eu sou um herói, mas com falhas humanas.", "alias": "Rex Splode" }
+      ]
+    },
+    {
+      "id": 12,
+      "question": "Como você lidaria com um vilão que tem a mesma moral que você?",
+      "options": [
+        { "id": 1, "name": "Eu procuraria destruí-lo, para evitar que se torne uma ameaça.", "alias": "Omni-Man" },
+        { "id": 2, "name": "Tentaria convencê-lo a lutar pela mesma causa.", "alias": "Mark" },
+        { "id": 3, "name": "Desafiaria sua visão e mostraria uma nova forma de pensar.", "alias": "Atom Eve" },
+        { "id": 4, "name": "Eu tentaria encontrar uma forma de trabalhar juntos.", "alias": "Robot" },
+        { "id": 5, "name": "Destruí-lo seria necessário para garantir a minha sobrevivência.", "alias": "Rex Splode" },
+        { "id": 6, "name": "Eu o desafiaria a uma batalha para decidir quem tem a razão.", "alias": "Battle Beast" }
+      ]
+    },
+    {
+      "id": 13,
+      "question": "Se você fosse colocado em uma posição de poder, como governaria?",
+      "options": [
+        { "id": 1, "name": "Eu governaria com justiça, mas sem hesitar em agir com força.", "alias": "Omni-Man" },
+        { "id": 2, "name": "Governaria de forma estratégica, sempre visando a sobrevivência do maior número possível.", "alias": "Robot" },
+        { "id": 3, "name": "Eu garantiria que todos tivessem o que precisassem, sem exceção.", "alias": "Mark" },
+        { "id": 4, "name": "Governaria com força, buscando conquistar tudo o que posso.", "alias": "Battle Beast" },
+        { "id": 5, "name": "Governaria com empatia, priorizando o bem-estar de todos.", "alias": "Atom Eve" },
+        { "id": 6, "name": "Governaria com as minhas próprias regras, sem me preocupar com os outros.", "alias": "Rex Splode" }
+      ]
     }
-  ]
-}
-
   ],
   "results": {
   "Mark": {
